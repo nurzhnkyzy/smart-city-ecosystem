@@ -1,3 +1,7 @@
+# Smart City Digital Ecosystem
+
+## Project Description
+A unified digital platform that connects citizens, service providers, and city administrators to manage city service requests transparently.
 ## Problem
 - Отсутствие прозрачности в городских службах
 - Бумажная подача заявок без реального подтверждения
