@@ -1,29 +1,24 @@
-# Smart City Digital Ecosystem
-
-## Project Description
-A unified digital platform that connects citizens, service providers, and city administrators to manage city service requests transparently.
-
 ## Problem
-- Lack of transparency in city services
-- Paper-based reporting without real confirmation
-- Unclear deadlines for citizens
-- No accountability of service providers
+- Отсутствие прозрачности в городских службах
+- Бумажная подача заявок без реального подтверждения
+- Нечёткие сроки выполнения для граждан
+- Отсутствие ответственности у поставщиков услуг
 
 ## Solution
-- Single platform for all city requests
-- Photo and geo-based confirmation
-- Transparent deadlines and statuses
-- Administrative control panel
+- Единая платформа для всех городских обращений
+- Фото- и геолокационное подтверждение выполнения
+- Прозрачные сроки и статусы заявок
+- Административная панель управления
 
 ## How It Works
-1. Citizen submits a request
-2. System assigns service provider
-3. Provider uploads photo proof
-4. Controller verifies completion
-5. Citizen sees result
+1. Гражданин отправляет заявку
+2. Система назначает исполнителя
+3. Исполнитель загружает фото-подтверждение
+4. Контролёр проверяет выполнение
+5. Гражданин видит результат
 
 ## Prototype
-Web-based platform with mobile-friendly interface
+Веб-платформа с интерфейсом, адаптированным для мобильных устройств
 
 ## Team
 Domain Expert: Sabina
